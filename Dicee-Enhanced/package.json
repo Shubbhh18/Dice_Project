@@ -1,0 +1,28 @@
+{
+  "name": "dicee-enhanced",
+  "version": "1.0.0",
+  "description": "An enhanced version of the Dicee game with 3D background and improved functionality.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "dice",
+    "game",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.137.0",
+    "howler": "^2.2.3"
+  },
+  "devDependencies": {
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1",
+    "live-server": "^1.2.1"
+  }
+}
