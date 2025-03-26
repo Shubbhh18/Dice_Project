@@ -10,3 +10,6 @@ node_modules/
 
 # Other system files
 Thumbs.db
+
+# Ensure index.html is not ignored
+!index.html
