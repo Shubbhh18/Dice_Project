@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+__MACOSX/
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# Logs
+*.log
+
+# Other system files
+Thumbs.db
